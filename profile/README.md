@@ -42,8 +42,8 @@
 
 ### Power delivery:
 
--  :heavy_check_mark:  [Distribution board](power_supply/distributionboard)
-    - Basic PSU distribution board, with 12 IDC headers.
+-  :heavy_check_mark:  [Distribution board](https://github.com/BleepSound/distribution_board)
+    - Basic Eurorack PSU distribution board, with 12 IDC headers.
 
 | Symbol | Description |
 | ----------- | ----------- |
