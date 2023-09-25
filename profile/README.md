@@ -40,6 +40,13 @@
         - 5 octave switch
         - 1v/oct CV, FM CV and PWM CV.
 
+### ADSRs:
+
+- :warning: [Basic ADSR](https://github.com/BleepSound/basic_adsr)
+    - Basic ADSR based on René Schmitz [Fastest envelope in the West](https://www.schmitzbits.de/adsr.html)
+    - All you need in an ADSR
+    - Switch to have 2 different time constants for the ADSR
+
 ### Power delivery:
 
 -  :heavy_check_mark:  [Distribution board](https://github.com/BleepSound/distribution_board)
