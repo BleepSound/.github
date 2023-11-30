@@ -51,6 +51,8 @@
 
 -  :heavy_check_mark:  [Distribution board](https://github.com/BleepSound/distribution_board)
     - Basic Eurorack PSU distribution board, with 12 IDC headers.
+-  :warning:  [USB distribution board](https://github.com/BleepSound/usb-distrib)
+    - Double USB receptacle to power 5V usb devices out of your eurorack case.
 
 | Symbol | Description |
 | ----------- | ----------- |
