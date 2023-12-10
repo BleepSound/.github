@@ -30,7 +30,7 @@
     - VCO clone, originally made by HAGIWO ([link](https://note.com/solder_state/n/n64b91a171218) in japanese)
     - RP2040 chord VCO clone in SMD.
     - 5-polyphonic Chord VCO module. There are 8 types of tones. With a built-in quantizer and automatic harmonics function, if you input a suitable CV, it will play a nice chord progression. 
-- :exclamation: [CD40106-VCO](https://github.com/BleepSound/cd40106_vco)
+- :warning: [CD40106-VCO](https://github.com/BleepSound/cd40106_vco)
     - CD40106 saw core oscillator based on Moritz Klein version (https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vco/)
         - 4 waveforms
             - Saw
@@ -39,6 +39,8 @@
             - Sine
         - 5 octave switch
         - 1v/oct CV, FM CV and PWM CV.
+        - Sync input
+        - Extender pins to future Sub octave extender
 
 ### ADSRs:
 
